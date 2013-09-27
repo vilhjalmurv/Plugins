@@ -1,0 +1,11 @@
+span.lunch_wrapper {
+	display: block;
+	margin-bottom: 5px;
+}
+span.lunch_items {
+}
+span.lunch_dates {
+	color: #888;
+	font-size: 90%;
+	margin-left: 5px;
+}
