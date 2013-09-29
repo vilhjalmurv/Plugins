@@ -2,3 +2,5 @@
 .htaccess
 index.php
 wordpress-importer/
+debug-bar/
+developer/
