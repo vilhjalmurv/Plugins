@@ -3,6 +3,7 @@
 index.php
 wordpress-importer/
 debug-bar/
+debug-bar-extender/
 developer/
 log-deprecated-notices/
 log-viewer/
