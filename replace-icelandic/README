@@ -1,6 +1,8 @@
-/*
- * Replace icelandic
- * 
- * WordPress plugin that replaces icelandic characters in filenames when uploading files.
- *
- */
+Replace icelandic
+
+WordPress plugin that replaces icelandic characters in filenames when uploading files.
+
+Changelog
+
+Version 1.1
+ - Added the plugin to a class and object oriented php.
